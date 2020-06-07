@@ -5,5 +5,5 @@ app = Flask(__name__)
 
 @app.rooute("/")
 def index():
-    return render_templet("index.html")
+    return render_templet("i")
 
